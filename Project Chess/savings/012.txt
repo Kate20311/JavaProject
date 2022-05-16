@@ -1,0 +1,6 @@
+1 Pawn 5 7 5 5 
+0 Pawn 4 2 4 4 
+1 Pawn 5 5 5 4 
+0 Pawn 4 4 4 5 
+1 Pawn 3 7 3 5 
+0 Pawn 4 5 3 6 
